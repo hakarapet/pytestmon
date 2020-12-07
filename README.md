@@ -8,5 +8,5 @@ Tool to automatically restart the python test when file is changed.
 
 ## IMPORTANT
 This is a version specifically for MACOS. Sorry for not doing for other OS-es friends.\
-Hint: use `inotifywatch` in Linux. \
+Hint: use `inotifywatch` in Linux.
 
