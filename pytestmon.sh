@@ -1,1 +1,1 @@
-alias pytestmon='fswatch -r -o -e "*.pyc" *.py | xargs -o -n1 -I{} pytest'
+alias "pytestmon"="fswatch -r -o -e 'cache' . | xargs -o -n1 -I{} pytest --capture=sys"
